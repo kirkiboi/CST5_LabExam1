@@ -19,7 +19,7 @@ if (isset($_SESSION['user_id'])) {
     
     <div class="glass-card login-card">
         <div class="login-header">
-            <h2>Welcome</h2>
+            <h2>Welcome (to mobile legends)</h2>
             <p>Sign in to access your portal</p>
         </div>
 
